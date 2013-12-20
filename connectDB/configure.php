@@ -1,8 +1,8 @@
 <?php
 
-$DB_HOST = "localhost";
-$DB_USERNAME = "root";
-$DB_PASSWORD = "1003";
+$DB_HOST = "host";
+$DB_USERNAME = "username";
+$DB_PASSWORD = "password";
 $DB_NAME = "xth_9416412_fcu_book";
 
 ?>
