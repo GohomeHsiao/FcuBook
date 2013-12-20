@@ -10,8 +10,10 @@ Step 1. Setup the database, you can find the sql file in folder "sql".
 Step 2. Setup the configures of your database.
 
 Two files need to be modified,
-a) connectDB/configure.php
-b) manage/connectDB/configure.php
+
+1) connectDB/configure.php
+
+2) manage/connectDB/configure.php
 
 Develope Languages：HTML + PHP + JS + MySQL
 Suggest IE only, firefox or chrome distorts the layout.
