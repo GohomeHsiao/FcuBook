@@ -18,3 +18,5 @@ Two files need to be modified,
 Develope Languages：HTML + PHP + JS + MySQL
 
 Suggest IE only, firefox or chrome distorts the layout.
+
+The running sample "http://fcubook.xtreemhost.com/".
