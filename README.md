@@ -16,4 +16,5 @@ Two files need to be modified,
 2) manage/connectDB/configure.php
 
 Develope Languages：HTML + PHP + JS + MySQL
+
 Suggest IE only, firefox or chrome distorts the layout.
