@@ -1,0 +1,21 @@
+ErrorDocument 503 http://error.xtreemhost.com/503.shtml
+ErrorDocument 502 http://error.xtreemhost.com/502.shtml
+ErrorDocument 505 http://error.xtreemhost.com/505.shtml
+ErrorDocument 401 http://error.xtreemhost.com/401.shtml
+ErrorDocument 500 http://error.xtreemhost.com/500.shtml
+ErrorDocument 403 http://error.xtreemhost.com/403.shtml
+ErrorDocument 400 http://error.xtreemhost.com/400.shtml
+ErrorDocument 408 http://error.xtreemhost.com/408.shtml
+ErrorDocument 501 http://error.xtreemhost.com/501.shtml
+ErrorDocument 405 http://error.xtreemhost.com/405.shtml
+ErrorDocument 415 http://error.xtreemhost.com/415.shtml
+ErrorDocument 404 http://error.xtreemhost.com/404.shtml
+ErrorDocument 504 http://error.xtreemhost.com/504.shtml
+
+
+php_value error_append_string none
+# supress php errors
+php_flag display_startup_errors off
+php_flag display_errors off
+php_flag html_errors off
+SetEnv TZ Asia/Taipei
